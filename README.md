@@ -7,20 +7,24 @@ Please check with previous teams and licenses before using any code or component
 * AtraLite -- chat component: https://devpost.com/software/atra-liteui-3box-chat-integration
 * Shoutbox -- trollbox: https://github.com/MrLuit/ethberlinzwei-hackathon/
 
+### DAO and Collaboration Tools
+* CiaoDao -- social network for DAOs: https://devpost.com/software/ciaodao
+* MyDaoDashboard -- hub for a user's DAO activity: https://devpost.com/software/my-dao-dashboard
+* DaoHaus - spin up a dao: https://devpost.com/software/daohaus
+
+### Social tools and reputation 
+* TheHumblePotato -- thought-leadership reputation: https://devpost.com/software/the-humble-potato-xd4bf5
+* Badgable - put badges on things: https://github.com/mohamedaboelmagd/badgable
+
 ### Social Networks 
 * CollectorHub -- NFT-based community and commenting: https://devpost.com/software/collectorhub
 * 3Chan -- unstoppable chan: https://devpost.com/software/3chan
 * 3Chat : https://github.com/3box/dappcon-workshop
   * Multimedia in 3Chat
 
-
-### DAO and Collaboration Tools
-* CiaoDao -- social network for DAOs: https://devpost.com/software/ciaodao
-* MyDaoDashboard -- hub for a user's DAO activity: https://devpost.com/software/my-dao-dashboard
-* TheHumblePotato -- thought-leadership reputation: 
-
 ### Authentication and security 
 * You. -- password manager and authentication via mobile and 3Box 
+* FryTheDefi -- Torus integration: https://devpost.com/software/fry-the-defi-jgo5bc
 
 ### Other tools
 * SplitNetwork -- Notification system (for payments): https://devpost.com/software/splitnetwork-ghriw1
@@ -34,6 +38,5 @@ Please check with previous teams and licenses before using any code or component
 * Chat component with 3Box threads 
 * Import Facebook contact list into 3Box
 * Difficusion centricity measure for ethereum network and 3Box connections 
-* Emoji-only social network 
 * Data-sharing mixer -- anonymize metadata by enforcing X participants in a data sharing scheme
 * Curated data streams via tokenized/bonding curved threads (e.g,. for relevant crypto news) 
